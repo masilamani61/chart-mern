@@ -1,0 +1,44 @@
+.card{
+    position: absolute;
+    left:60%;
+    top:10%;
+    width:300px;
+    height:400px;
+    align-items: center;
+
+}
+
+.label{
+    text-align: center;
+    
+    width: 100%;
+   font-size: 30px;
+}
+
+.group {
+    margin-top: 20px;
+    width: 100%;
+}
+select{
+   
+    height: 40px;
+    width: 100%;
+    margin: 5px;
+    font-size: 20px;
+}
+input{
+    height: 30px;
+    width: 90%;
+    padding: 7px 20px;
+    margin-top: 24px;
+    border-radius: 2px solid lightgray;
+
+}
+
+button{
+    padding: 10px 20px;
+    margin-top: 40px;
+}
+.button{
+    text-align: center;
+}
